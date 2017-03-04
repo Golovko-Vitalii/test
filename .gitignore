@@ -1,7 +1,6 @@
 .idea/
 *.class
 !out/production/TestProj/Test1.class
-out/
-!out/production/TestProj/
+
 
 
